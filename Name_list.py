@@ -1,0 +1,25 @@
+name_friend = ['Abdullahi', 'Abdulrahman', 'Abdumalik', 'Abdulsalam','Aisha', 'Khadijah', "Ni'matullah", 'Amatullah', 'Amaturahman', ]
+print(name_friend)
+print(name_friend[0])
+print(name_friend[1])
+print(name_friend[2])
+print (name_friend[3])
+print(name_friend[4])
+print(name_friend[5])
+print(name_friend[6])
+print(name_friend[7])
+print(name_friend[8])
+
+print('Assalamu alaykum', name_friend[0], 'how are you?')
+print('Assalamu alaykum', name_friend[1],'how are you doing?')
+print (f"Assalamu alaykum {name_friend[2]} how are you?")
+print ('Assalamu alaykum',name_friend[3], 'how do you do?')
+print(f"Assalamu alaykum {name_friend[4]}, how are you?")
+print(f"Assalamu alaykum {name_friend[5]}, how are you?")
+print (f'Assalamu alaykum {name_friend[6]}, how are you?')
+print(f'Assalamu alaykum {name_friend[7]}, how are you?')
+print(f'Assalamu alaykum {name_friend[8]}, how are you?')
+
+vehicle = ['Benz', 'Ferari', 'Bugati', 'Honda motorcycle']
+print (f'I would love to own a {vehicle[0]}')
+print(f'I would love to own a {vehicle[1]}')
